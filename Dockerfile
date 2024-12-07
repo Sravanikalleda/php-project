@@ -21,3 +21,4 @@ CMD ["apache2-foreground"]
 ### VS Code ###
 .vscode/
 ### this is demo for git fetch ###
+### this is the demo for git pull ###
