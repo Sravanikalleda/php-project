@@ -18,4 +18,6 @@ EXPOSE 80
 # Start Apache when the container runs
 CMD ["apache2-foreground"]
 
+### VS Code ###
+.vscode/
 ### this is demo for git fetch ###
